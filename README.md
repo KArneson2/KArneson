@@ -1,7 +1,7 @@
 ### Hey, hey!
 
 <h2> About me </h2>
-<p> I'm Keegan A., an aspiring web designer. I'm currently a second year student at NAIT, pushing for my diploma in Web Design and Development. </p>
+<p> I'm Keegan A., an aspiring web designer. I'm currently a <u>second year student</u> at NAIT, pushing for my diploma in Web Design and Development. </p>
 
 <p>I'm still working with the fundamentals of CSS, HTML and JS, but I've been dabbling in Tailwind and Bootstrap for school projects.</p>
 
@@ -12,4 +12,5 @@
 
 <p>But after getting into the industry and being able to finally start practicing typing and coding effectively and efficiently, I'm glad it's nothing like some of those dramas out there.</p>
 
+<p>It's a long journey ahead, but I'm looking forward to growing and learning more about Front and Back-end development.</p>
 
